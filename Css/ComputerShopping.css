@@ -1,0 +1,22 @@
+ul {
+    border: solid lightgray 1px;
+    padding: 2px;
+    margin: 0px;
+    border-radius: 5px;
+}
+
+.categories {
+    width: 330px;
+    margin-left: 10px;
+}
+
+.computers {
+    height: 1000px;
+    margin-left: 350px;
+    display: flexbox;
+    background-image: url(/images/bg/paper.gif);
+}
+
+.search {
+    margin-bottom: 20px;
+}

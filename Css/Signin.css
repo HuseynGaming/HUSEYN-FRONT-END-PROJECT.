@@ -1,0 +1,15 @@
+.signinbox {
+    width: 350px;
+    height: 500px;
+    margin: auto;
+}
+
+#inline {
+    display: inline;
+}
+
+#warning1 {
+    font-size: smaller;
+    color: green;
+    margin: 4px;
+}

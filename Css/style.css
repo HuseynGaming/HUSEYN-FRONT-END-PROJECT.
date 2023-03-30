@@ -1,0 +1,21 @@
+.arrowArea {
+    width: 40px;
+}
+
+.carousel-item img {
+    padding: 0px 50px;
+}
+
+#slide {
+    background-color: gray;
+}
+
+#control {
+    background-color: gray;
+    height: 800px;
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+}
